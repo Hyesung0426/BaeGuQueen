@@ -27,20 +27,23 @@
 * 배구를 모르는 사람이 보아도 이해 할 수 있도록 포지션과 룰에 대한 정보 제공
 * 팀 페이지에는 경기 일정, 이미 치뤄진 경기의 결과, 리그테이블, 팀 기록 등을 제공
 * 선수 페이지에서는 경기 기록, 경력, 드래프트 순위, 사진, 간략한 개인정보 등을 제공
-``
 -2023.12.12-
 
 사용 스택
 
 -BACKEND
+
 JAVA 11, JSP, SPRING, SERVLET, MYSQL 8.0.35
 
 -FRONTEND
+
 HTML5, CSS, JAVASCRIPT, REACT, NODE.JS
 
 -API
+
 IntelliJ Idea
 
 -SERVER
+
 APACHE TOMCAT 9.0.82
 		
